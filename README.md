@@ -17,12 +17,12 @@ In this practice, I configured simple tasks, such as:
 #### Logic Apps - Triggers
 In this practice, I used Logic Apps and designed a few simple triggers.
 
-![Diagram of the first task](../AdminLabs/Media/http-trigger.png)
+![Screenshot of the first task](../AdminLabs/Media/email-trigger.png)
 What I did in this task:
 - Added a simple outlook trigger V2 (when a new email is sent, I will receive the alert)
 
 
-![Diagram of the second task](../AdminLabs/Media/http-trigger.png)
+![Screenshot of the second task](../AdminLabs/Media/http-trigger.png)
 
 What I did in this task:
 - In this task I added "when a HTTP request is received" trigger and configured the new action button
