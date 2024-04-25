@@ -23,7 +23,7 @@ In this case, our API is outlook.com
 What I did in this task:
 - Added a simple outlook trigger V2 (when a new email is sent, I will receive the alert)
   
-![Screenshot of the second task](../AdminLabs/Media/http-trigger.png)
+![Screenshot of the second task](./AdminLabs/Media/http-trigger.png)
 
 What I did in this task:
 - In this task I added "when a HTTP request is received" trigger and configured the new action button
