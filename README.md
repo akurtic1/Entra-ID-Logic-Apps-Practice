@@ -12,4 +12,15 @@ In this practice, I configured simple tasks, such as:
 - Adding a new user using Azure Portal
 - Deleting a user using Azure Portal
 - Creating a new group and adding users in the group
-- Inviting guest accounts using Microsoft Entra B2B
+- Inviting guest accounts and Microsoft Entra B2B
+
+#### Logic Apps - Triggers
+In this practice, I used Logic Apps and designed a few simple triggers.
+![Diagram of the first task](../AdminLabs/Media/email-trigger.png)
+What I did in this task:
+- Added a simple outlook trigger V2 (when a new email is sent, I will receive the alert)
+![Diagram of the second task](../AdminLabs/Media/http-trigger.png)
+What I did in this task:
+- In this task I added "when a HTTP request is received" trigger and configured the new action button
+which means when http request is received, I will receive a trigger. As you can see
+on the screenshot, I tested it and it's working.
