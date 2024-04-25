@@ -16,8 +16,9 @@ In this practice, I configured simple tasks, such as:
 
 #### Logic Apps - Triggers
 In this practice, I used Logic Apps and designed a few simple triggers.
+In this case, our API is outlook.com
 
-![Screenshot of the scheduling section of an alert processing rule](../emailtrigger.png)
+![Screenshot of configuring the email trigger](../emailtrigger.png)
 
 What I did in this task:
 - Added a simple outlook trigger V2 (when a new email is sent, I will receive the alert)
