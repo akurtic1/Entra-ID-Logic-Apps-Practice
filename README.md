@@ -17,7 +17,7 @@ In this practice, I configured simple tasks, such as:
 #### Logic Apps - Triggers
 In this practice, I used Logic Apps and designed a few simple triggers.
 
-![Screenshot of the first task](../[media/emailtrigger.png](https://github.com/akurtic1/Entra-ID-Logic-Apps-Practice/blob/b76a4db01d013707add28a51212bd11358e1b0bb/media/emailtrigger.png))
+![Screenshot of the first task](../media/emailtrigger.png)
 What I did in this task:
 - Added a simple outlook trigger V2 (when a new email is sent, I will receive the alert)
 
