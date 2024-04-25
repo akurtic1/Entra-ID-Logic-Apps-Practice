@@ -8,3 +8,8 @@ Resource Used:
 - Logic Apps
 
 #### Microsoft Entra ID - Practice
+In this practice, I configured simple tasks, such as:
+- Adding a new user using Azure Portal
+- Deleting a user using Azure Portal
+- Creating a new group and adding users in the group
+- Inviting guest accounts using Microsoft Entra B2B
