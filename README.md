@@ -18,9 +18,12 @@ In this practice, I configured simple tasks, such as:
 In this practice, I used Logic Apps and designed a few simple triggers.
 
 ![Screenshot of the scheduling section of an alert processing rule](../Entra-ID-Logic-Apps-Practice/media/emailtrigger.png)
+![alt text][https://github.com/akurtic1/Entra-ID-Logic-Apps-Practice/blob/f2b551398547f013d4e835236e93401950b498c0/media/email-trigger.png]
+
+
 What I did in this task:
 - Added a simple outlook trigger V2 (when a new email is sent, I will receive the alert)
-- 
+  
 ![Screenshot of the second task](../AdminLabs/Media/http-trigger.png)
 
 What I did in this task:
